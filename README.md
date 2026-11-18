@@ -87,3 +87,26 @@ Prosjektarbeidet ga erfaring med:
 Helsebot er et studieprosjekt som dokumenterer gruppens arbeid med å utvikle og undersøke en LEGO-basert robotprototype.
 
 Prosjektet representerer en demonstrasjonsprototype og er ikke et ferdig medisinsk produkt.
+
+
+## Bilder av Helsebot-prototypen
+
+Bildene viser utviklingen av Helsebot, fra en tidlig konstruksjon til en videreutviklet robotprototype.
+
+### Figur 1 – Tidlig prototype
+
+![Tidlig LEGO-basert Helsebot-prototype](figur8_tidlig_prototype.png.png)
+
+*Figur 1: Tidlig robotprototype med kontrollenhet, hjul og tilkoblet mekanisk konstruksjon.*
+
+### Figur 2 – Videreutviklet robotprototype
+
+![Helsebot-robot sett forfra](figur9_ferdig_prototype.png)
+
+*Figur 2: Videreutviklet Helsebot-prototype med hjul, sensormodul og mekaniske komponenter.*
+
+### Figur 3 – Mekanisk konstruksjon
+
+![LEGO-basert HLR-mekanisme](figur7_hlr_mekanisme.png)
+
+*Figur 3: Mekanisk konstruksjon utviklet i forbindelse med prosjektets arbeid med hjerte-lunge-redning.*
